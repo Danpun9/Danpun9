@@ -32,6 +32,7 @@ Document AI         Workflow Automation Privacy-first AI
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-2C9B7C?style=for-the-badge&logo=unsloth&logoColor=white" />
 </p>
 
 ### Backend / Application
@@ -78,18 +79,21 @@ Document AI         Workflow Automation Privacy-first AI
 
 ## 🚀 대표 프로젝트
 
-### 🚗 Edge Autonomous Driving with CARLA
+### 🚗 Edge Autonomous Driving & VLM QLoRA with CARLA
 
-> CARLA 시뮬레이션 환경에서 자율주행 인지 모델을 수집·학습·최적화하는 엣지 AI 프로젝트
+> CARLA 시뮬레이션 환경에서 자율주행 인지 모델 최적화 프로젝트 & VLM 기반 E2E 자율주행 연구 프로젝트
 
 <p>
   <img src="https://img.shields.io/badge/CARLA-2C3E50?style=flat-square" />
   <img src="https://img.shields.io/badge/Sim2Real-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLM-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/QLoRA-5C2D91?style=flat-square" />
   <img src="https://img.shields.io/badge/U--Net-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" />
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-2c9b7c?style=flat-square&logoColor=white" />
 </p>
 
 * CARLA 기반 RGB / Semantic Camera 데이터 수집
@@ -98,7 +102,13 @@ Document AI         Workflow Automation Privacy-first AI
 * ONNX 변환 및 TensorRT 최적화 실험
 * FP16 / INT8 기반 엣지 추론 성능 비교
 
-🔗 Repository: [Danpun9/edge-autonomous-driving-carla](https://github.com/Danpun9/edge-autonomous-driving-carla)
+🔗 Repository (Edge AI): [Danpun9/edge-autonomous-driving-carla](https://github.com/Danpun9/edge-autonomous-driving-carla)
+* Vision-Language Model(VLM)을 활용한 End-to-End 자율주행 모델 연구
+* QLoRA 기법을 통한 파라미터 효율적 미세조정(PEFT) 적용
+
+
+
+🔗 Repository (VLM QLoRA): [Danpun9/E2E-QLoRA-Autonomous-Driving-CARLA](https://github.com/Danpun9/E2E-QLoRA-Autonomous-Driving-CARLA)
 
 ---
 
