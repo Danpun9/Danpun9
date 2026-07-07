@@ -8,7 +8,7 @@
 
 ---
 
-## 🧭 관심 분야
+## 관심 분야
 
 ```text
 On-Device AI        Local LLM           RAG System
@@ -19,7 +19,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 ### AI / ML / LLM
 
@@ -77,9 +77,9 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-## 🚀 대표 프로젝트
+## 대표 프로젝트
 
-### 🚗 Edge Autonomous Driving & VLM QLoRA with CARLA
+### Edge Autonomous Driving & VLM QLoRA with CARLA
 
 > CARLA 시뮬레이션 환경에서 자율주행 인지 모델 최적화 프로젝트 & VLM 기반 E2E 자율주행 연구 프로젝트
 
@@ -112,7 +112,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-### 🧠 MemoCore
+### MemoCore
 
 > 로컬 문서 기반 RAG와 온디바이스 AI를 활용한 개인정보 보호형 AI 워크스페이스
 
@@ -134,7 +134,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-### 🍳 Bask:EAT
+### Bask:EAT
 
 > AI 레시피 추천, 영상 기반 레시피 추출, 식재료 인식, 쇼핑 연계를 포함한 푸드테크 AI 서비스
 
@@ -157,7 +157,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-### 📚 PaperC0re
+### PaperC0re
 
 > arXiv 논문 수집, AI 요약, 키워드 태깅, 뉴스레터 발송을 자동화하는 연구 정보 수집 시스템
 
@@ -186,7 +186,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-## 🧾 Profile Summary Cards
+## Profile Summary Cards
 
 <div align="center">
 
@@ -200,7 +200,7 @@ Document AI         Workflow Automation Privacy-first AI
 
 ---
 
-## 📫 연락처
+## 연락처
 
 <p>
   <a href="mailto:joonseekpark@gmail.com">
@@ -210,15 +210,5 @@ Document AI         Workflow Automation Privacy-first AI
     <img src="https://img.shields.io/badge/GitHub-Danpun9-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 👀 방문자 수
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Danpun9&label=Profile%20views&color=0e75b6&style=flat" />
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2a5298,100:1e3c72\&height=120\&section=footer)
