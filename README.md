@@ -8,6 +8,12 @@
 
 ---
 
+## 활동
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
+---
+
 ## 관심 분야
 
 ```text
@@ -177,26 +183,6 @@ Document AI         Workflow Automation Privacy-first AI
 * 연구 주제별 뉴스레터 발송 구조
 
 🔗 Organization: [PaperC0re](https://github.com/PaperC0re)
-
----
-
-## 활동
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
----
-
-## Profile Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danpun9&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danpun9&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danpun9&theme=tokyonight" />
-
-</div>
 
 ---
 
